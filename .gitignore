@@ -1,0 +1,25 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated uploads
+static/uploads/
+
+# Training and image data
+content_data/
+content_imgs/
+style_data/
+style_imgs/
+
+# Large model checkpoints
+*.pth
+*.pt
