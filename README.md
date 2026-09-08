@@ -2,6 +2,10 @@
 
 A PyTorch and Flask application for transferring the visual style of one image onto the content of another image. The project uses a pretrained VGG-based encoder, Adaptive Instance Normalization (AdaIN), and a learned decoder to produce stylized images through a web interface.
 
+## Live Demo
+
+[Try the live demo](https://neural-style-transfer-adain-yycq.onrender.com/)
+
 ## Introduction
 
 Neural style transfer separates an image into two complementary ideas:
